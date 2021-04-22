@@ -59,7 +59,7 @@ header li a {
 /* **************************************** */
 
 #Imageettelechargement {
-    background: url(Images/Imagetelechargement.png) no-repeat;
+    background: url(Images/Imagetelechargement.png) no-repeat 50% 30%;
     background-size: cover;
     height: 799px;
 }
