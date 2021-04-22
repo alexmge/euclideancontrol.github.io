@@ -116,6 +116,7 @@ h1{
 footer{
     background-color:#75E6DA;
     padding: 9px ;
+    vertical-align: top;
 }
 #copyrighteticones{
     display: flex;
