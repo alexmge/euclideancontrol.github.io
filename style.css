@@ -64,10 +64,10 @@ header li a {
 
 h1{
     text-align: center;
-    color: midnightblue;
+    color: white;
     font-size: 7em;
     margin-top: 90px;
-    text-shadow: 5px 4px 2px white;
+    text-shadow: 5px 4px 2px black;
 }
 
 #premiertrait {
