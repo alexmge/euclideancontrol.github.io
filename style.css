@@ -74,11 +74,11 @@ h1{
     height: 4px;
     width: 25%;
     margin: 40px auto;
-    background-color: midnightblue;
+    background-color: white;
 }
 #soustitre{
-    color: midnightblue;
-    text-shadow: 5px 4px 2px white;
+    color: white;
+    text-shadow: 5px 4px 2px black;
     font-size: 2.5em;
     font-weight: bold;
 }
