@@ -56,7 +56,7 @@ header li a {
 /* ***************************Image principale********************** */
 
 #imageprincipale{
-    padding-top: 60px;
+    padding-top: 100px;
     background: url(Images/thumb-1920-1072679.jpg) no-repeat 50% 50% fixed;
     background-size: cover;
     height: 799px;
