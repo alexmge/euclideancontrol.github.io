@@ -82,19 +82,19 @@ h1{
 }
 
 #img1{
-    left:705px;
+    left:750px;
     position: absolute;
     margin-top: 25px;
     margin-bottom: 30px;
 }
 #img2{
     top: 520px;
-    left: 705px;
+    left: 755px;
     position: absolute;
     margin-bottom: 30px;
 }
 #img3{
-    left: 845px;
+    left: 890px;
     top: 630px;
     position: absolute;
     margin-top: 45px;
@@ -102,7 +102,7 @@ h1{
     
 }
 #img4{
-    left: 1045px;
+    left: 1090px;
     position: absolute;
     margin-top: 10px;
     margin-bottom: 20px;
@@ -110,7 +110,7 @@ h1{
 }
 #img5{
     position: absolute;
-    left: 1037px;
+    left: 1083px;
     top: 520px;
 
 }
