@@ -72,8 +72,18 @@ h1{
     background-color: #189AB4;
     padding-bottom: 30px;
 }
+#maj3 {
+    padding-top: 5px;
+    background-color: #189AB4;
+    padding-bottom: 30px;
+}
 
 #maj2{
+    background-color: #189AB4;
+    padding-bottom: 30px;
+    padding-top: 5px;
+}
+#maj4{
     background-color: #189AB4;
     padding-bottom: 30px;
     padding-top: 5px;
@@ -91,6 +101,7 @@ h1{
     margin-bottom: 35px;
     margin-top: -20px;
 }
+
 #imagepatch {
     border: 5px groove black;
     border-radius: 13px 13px 13px 13px;
@@ -98,6 +109,18 @@ h1{
     margin-bottom: 100px;
 }
 #imagepatch2 {
+    border: 5px groove black;
+    border-radius: 13px 13px 13px 13px;
+    height: 400px;
+    margin-bottom: 100px;
+}
+#imagepatch3 {
+    border: 5px groove black;
+    border-radius: 13px 13px 13px 13px;
+    height: 400px;
+    margin-bottom: 100px;
+}
+#imagepatch4 {
     border: 5px groove black;
     border-radius: 13px 13px 13px 13px;
     height: 400px;
