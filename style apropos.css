@@ -94,7 +94,7 @@ h1{
     margin-bottom: 30px;
 }
 #img3{
-    left: 890px;
+    left: 750px;
     top: 630px;
     position: absolute;
     margin-top: 45px;
@@ -112,8 +112,16 @@ h1{
     position: absolute;
     left: 1083px;
     top: 520px;
-
 }
+
+#img6{
+    position: absolute;
+    left: 1072px;
+    top: 630px;
+    margin-top: 45px;
+    margin-bottom: 40px;
+}
+
 #imageunity{
     filter: drop-shadow(0 0 2px white);
 }
@@ -138,6 +146,11 @@ h1{
     transform: scale(1.15);
     transition: 0.3s;
 }
+#imagepatchkit:hover{
+    transform: scale(1.15);
+    transition: 0.3s;
+}
+
 
 
 /* ****************Footer**************** */
